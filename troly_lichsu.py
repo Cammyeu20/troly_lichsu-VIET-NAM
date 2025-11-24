@@ -1,5 +1,5 @@
 import streamlit as st
-from gtts import gTTS
+from gtts import gtts
 from io import BytesIO
 import base64
 import streamlit.components.v1 as components
